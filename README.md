@@ -67,34 +67,32 @@ Predict whether a patient will **survive within 30 days** of ICU discharge based
 
 ### Custom LSTM
 - Accuracy & Loss  
-  ![Accuracy](<img width="512" height="385" alt="image" src="https://github.com/user-attachments/assets/8da9e68a-305e-4c21-9290-189c14d6a81c" />)  
-  ![Loss](results/custom_lstm_loss.png)  
+  [<img width="512" height="385" alt="image" src="https://github.com/user-attachments/assets/8da9e68a-305e-4c21-9290-189c14d6a81c" />](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/custom_lstm_accuracy.png)  
+  ![Loss](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/custom_lstm_loss.png)  
 
 - Confusion Matrix  
-  ![Confusion Matrix](results/conf_matrix_custom.png)
+  ![[Confusion Matrix](results/conf_matrix_custom.png)](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/conf_matrix_custom.png)
 
 ### BiLSTM
 - Confusion Matrix  
-  ![Confusion Matrix](results/conf_matrix_bilstm.png)
+  ![https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/conf_matrix_bilstm.png](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/conf_matrix_bilstm.png)
 
 ### GloVe LSTM
 - Accuracy & Loss  
-  ![Accuracy](results/glove_lstm_accuracy.png)  
-  ![Loss](results/glove_lstm_loss.png)  
+  ![[Accuracy](results/glove_lstm_accuracy.png)](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/GLOVE%20LSTM%20ACCURACY.png)  
+  ![[Loss](results/glove_lstm_loss.png)  ](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/GLOVE%20LSTM%20LOSS.png)
 
 - Confusion Matrix  
-  ![Confusion Matrix](results/conf_matrix_glove.png)
+  ![[Confusion Matrix](results/conf_matrix_glove.png)](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/conf_matrix_glove.png)
 
 ### GloVe GRU (Trainable)
 - Confusion Matrix  
-  ![Confusion Matrix](results/conf_matrix_gru.png)
+  ![[Confusion Matrix](results/conf_matrix_gru.png)](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/conf_matrix_gru.png)
 
 ### Final Comparison
 - Precision / Recall / F1-score across models  
-  ![Comparison](results/comparison_metrics.png)
+  ![[Comparison](results/comparison_metrics.png)](https://github.com/mbakos95/ICU-Mortality-Prediction-MIMIC-III-/blob/main/comparison_metrics.png)
 
-
-> Additional plots and results can be found in the [PDF report](./ICU_Mortality_Prediction_Report.pdf).
 
 ---
 
