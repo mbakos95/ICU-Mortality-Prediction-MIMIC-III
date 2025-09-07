@@ -112,24 +112,23 @@ Predict whether a patient will **survive within 30 days** of ICU discharge based
 ```
 icu-mortality-prediction/
 │
-├── notebooks/
-│   ├── ICU_Mortality_Notebook_1_Preprocessing.ipynb
-│   └── ICU_Mortality_Notebook_2_Models.ipynb
+├── ICU_Mortality_Prediction_-_Notebook_1_Dataset_Preprocessing.ipynb
+├── ICU_Mortality_Prediction_-_Notebook_2.ipynb
 │
 ├── results/                  # Plots & confusion matrices
 │   ├── custom_lstm_accuracy.png
 │   ├── custom_lstm_loss.png
-│   ├── glove_lstm_accuracy.png
-│   ├── glove_lstm_loss.png
+│   ├── GLOVE_LSTM_ACCURACY.png
+│   ├── GLOVE_LSTM_LOSS.png
 │   ├── conf_matrix_custom.png
 │   ├── conf_matrix_bilstm.png
 │   ├── conf_matrix_glove.png
 │   ├── conf_matrix_gru.png
 │   └── comparison_metrics.png
 │
-├── ICU_Mortality_Prediction_Report.pdf
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
+
 ```
 
 
