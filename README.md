@@ -152,3 +152,8 @@ icu-mortality-prediction/
 
 ---
 
+## 👨‍💻 Author
+
+**Christos Zampakos**
+Master’s in Artificial Intelligence & Deep Learning (AIDL03)
+GitHub: [mbakos95](https://github.com/mbakos95)
