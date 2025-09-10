@@ -149,7 +149,7 @@ icu-mortality-prediction/
 - Coursework: MSc Artificial Intelligence & Deep Learning (AIDL_A02)
 
 ---
-
+ 
 ## 👨‍💻 Author
 
 **Christos Zampakos**
